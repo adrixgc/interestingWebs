@@ -8,3 +8,5 @@ https://placeit.net
 http://magicmockups.com/
 
 http://www.thewindowsclub.com/add-a-device-frame-to-screenshot
+
+https://github.com/MindorksOpenSource/android-mvp-basic-sample
