@@ -13,3 +13,7 @@ https://github.com/MindorksOpenSource/android-mvp-basic-sample
 
 //How to manke relations with Android Room
 https://stackoverflow.com/a/44424148/6110433
+
+
+//Ideas for App style
+https://www.uplabs.com/android
