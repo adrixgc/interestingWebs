@@ -2,6 +2,7 @@
 Interesting webs for developing I've found
 
 Adding frames to your screenshots (perfect for Play Store)
+https://theapplaunchpad.com/mockup-generator/?device_type=Android#new-heading-mg
 
 https://placeit.net
 
