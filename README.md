@@ -18,3 +18,7 @@ https://stackoverflow.com/a/44424148/6110433
 
 //Ideas for App style
 https://www.uplabs.com/android
+
+
+//How to stay up to date with Android
+https://medium.com/@n8ebel/stay-up-to-date-as-an-android-developer-7922dfb953ac
